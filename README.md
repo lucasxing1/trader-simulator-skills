@@ -1,6 +1,8 @@
 # 🏆 炒股大师模拟器 (Trader Simulator) /skills
 
-> 化身多位股市大师，体验不同投资风格的模拟交易练习工具 | 🤖 支持 OpenClaw
+> 化身多位股市大师，体验不同投资风格的模拟交易练习工具 | 🤖 支持 OpenClaw | AI Agent | Trading Bot
+
+**关键词**：OpenClaw Skill, AI Agent, Trading Simulator, 炒股模拟器, 股市模拟器, 量化投资, 金融科技, FinTech, 股票交易, 智能投研, 多智能体, Multi-Agent, A股, 港股, 美股, 加密货币, Web3, 区块链, 孙宇晨
 
 ![Version](https://img.shields.io/badge/version-1.5.1-blue)
 ![Platform](https://img.shields.io/badge/platform-OpenClaw-green)
